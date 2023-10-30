@@ -1,0 +1,18 @@
+table {
+	border: 1px solid silver;
+}
+
+td:hover {
+		background-color: Lavender;
+		color: Indigo;
+}
+
+tr, th {
+	background-color: IndianRed;
+	color: LavenderBlush;
+}
+
+tr, td {
+	background-color: PaleVioletRed;
+	color: Pink;
+}
